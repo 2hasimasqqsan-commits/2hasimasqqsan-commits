@@ -1,16 +1,16 @@
-## Hi there 👋
+## Infrastructure / DevOps Engineer Portfolio
 
-<!--
-**2hasimasqqsan-commits/2hasimasqqsan-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build Linux-based infrastructure automation labs using Ansible, Docker, Proxmox VE, Zabbix, Pacemaker/DRBD, and secure bastion/proxy designs.
 
-Here are some ideas to get you started:
+My focus is on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Infrastructure as Code
+- Monitoring and observability
+- High availability systems
+- Linux server operations
+- Secure remote access and bastion design
+- Practical automation for real-world operations
+
+Linux、Ansible、Docker、Proxmox VE、Zabbix、linstor/DRBD、Pacemaker/DRBD を用いて、
+監視基盤・HAクラスタ・踏み台/プロキシ環境などのインフラ自動化ポートフォリオを作成しています。
+実運用を想定した構成、冪等性、障害時の復旧、監査性を重視しています。
