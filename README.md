@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Linux / Infrastructure Automation Portfolio
 
 I build Linux-based infrastructure automation labs using Ansible, Proxmox VE, Docker, Zabbix, Pacemaker/DRBD, LINSTOR, Kubernetes, and secure bastion/hardening designs.
@@ -69,4 +68,3 @@ Ansible project for provisioning a Linux VM on Proxmox VE and applying security 
 
 These projects are built as practical infrastructure labs for learning, verification, and portfolio purposes.  
 Each repository includes Ansible roles, configuration examples, verification steps, and screenshots where applicable.
-EOF
